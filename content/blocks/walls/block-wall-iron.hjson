@@ -7,12 +7,12 @@
     research: {
         parent: "kamek-block-core-hill",
         requirements: [
-            "kamek-item-iron-ingot/100"
+            "kamek-item-iron-ingot/60"
         ]
     },
 
     requirements: [
-        "kamek-item-iron-ingot/10"
+        "kamek-item-iron-ingot/6"
     ],
         objectives: [
             "kamek-item-iron-ingot"
