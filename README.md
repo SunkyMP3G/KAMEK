@@ -1,21 +1,3 @@
-My first mod
+The mod was deleted from GitHub, because I can't handle updating mod in GitHub, and make new things at the same time. The development isn't stopped, just no access to mod. Good luck!
 
-Version: 0.1 beta
-
-This mod adds a new planet with tech tree and first sector
-
-This is a beta, it can contain bugs, if you found a bug, tell me.
-
-At the moment mod contains:
-
-     - A new planet,
-     - 1 Sector,
-     - 7 Blocks,
-     - 3 Items,
-     - 1 Turret,
-     - 2 Units
-
-Languages:
-
-     - English,
-     - Russian/Русский
+Мод был удалён с Github, потому-что я не выдержу обновлять мод на GitHub, и делать новые вещи одновременно. Разработка не остановлена, просто нет доступа к нему. Удачи!
