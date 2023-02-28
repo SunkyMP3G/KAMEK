@@ -9,7 +9,7 @@
     subtitle:"[[]green]Version: 0.0-dev",
     description:
 '''
-Mod in development...
+Mod in development, downloading it is useless.
 '''
     dependencies: []
 }
