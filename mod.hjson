@@ -1,0 +1,23 @@
+{
+    name: "kamek",
+	repo: "sunkymp3g/kamek",
+    minGameVersion: 141.3,
+    version: "0.1.0",
+    
+    displayName: "KAMEK",
+    author: "[orange]Sunky.MPEG",
+    subtitle:"[green]Version: 0.1.0b",
+    description:
+'''
+[white]Explore a new planet, that's filled by mountains!
+
+[[]gray]Version: [[]white]0.1.0-beta
+	
+[[]gray]Languages: 
+	         [[]white]- English
+         - Russian/Русский
+		 
+		 * - [[]red]AI translated, can contain mistakes!
+'''
+    dependencies: []
+}
