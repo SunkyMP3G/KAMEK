@@ -1,0 +1,19 @@
+{
+    color: 808080,
+    type: "resource"
+    explosiveness: 0,
+    flammability: 0,
+    radioactivity: 0,
+    charge: 0,
+    hardness: 2,
+
+    research: {
+        parent: "kamek-item-stone"
+    },
+
+    buildable: false,
+    hiddenOnPlanets: [
+        "serpulo",
+        "erekir"
+    ]
+}

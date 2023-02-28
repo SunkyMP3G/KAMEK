@@ -1,0 +1,15 @@
+{
+    sector: 0,
+    planet: "kamek",
+    research: {
+        parent: "kamek-block-core-hill",
+        objectives: [
+            {
+                type: "SectorComplete",
+                preset: "sector-hill"
+            }
+        ]
+    },
+    difficulty: 0,
+    alwaysUnlocked: true
+}

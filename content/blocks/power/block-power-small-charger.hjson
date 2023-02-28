@@ -1,0 +1,33 @@
+{
+    type: "GenericCrafter",
+    category: "crafting",
+
+    size: 1,
+    health: 100,
+
+    craftTime: 120,
+    consumes: {
+        items: [
+            "kamek-item-iron-ingot/2"
+        ]}
+    outputItem : "kamek-item-small-battery/1",
+
+    research: {
+        parent: "kamek-block-core-hill",
+        requirements: [
+            "kamek-item-stone/120",
+			"kamek-item-iron-ingot/90",
+        ],
+        objectives: [
+            {
+            type: OnSector
+			preset: sector-hill
+			}
+		]
+    },
+
+    requirements: [
+        "kamek-item-stone/40",
+		"kamek-item-iron-ingot/30"
+    ]
+}

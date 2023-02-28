@@ -1,0 +1,5 @@
+{
+    type: "StaticWall",
+    itemDrop: "kamek-item-stone",
+    variants: 3
+}

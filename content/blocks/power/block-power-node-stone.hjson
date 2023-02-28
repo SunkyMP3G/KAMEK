@@ -1,0 +1,23 @@
+{
+    type: "PowerNode",
+    category: "power",
+
+    size: 1,
+    health: 10,
+
+    laserRange: 6,
+	maxNodes: 5,
+
+    research: {
+        parent: "kamek-block-power-small-charger",
+        requirements: [
+            "kamek-item-stone/10",
+			"kamek-item-iron-ingot/5",
+        ]
+    },
+
+    requirements: [
+        "kamek-item-stone/3",
+		"kamek-item-iron-ingot/1"
+    ]
+}

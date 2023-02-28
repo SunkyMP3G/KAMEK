@@ -1,0 +1,23 @@
+{
+    type: "WallCrafter",
+    category: "production",
+    size: 2,
+    health: 250,
+
+    drillTime: 240,
+    output: "kamek-item-stone",
+
+    research: {
+        parent: "kamek-block-core-hill",
+        requirements: [
+            "kamek-item-stone/50"
+        ],
+        objectives: [
+            "kamek-item-stone"
+		]
+    },
+
+    requirements: [
+        "kamek-item-stone/14"
+    ]
+}

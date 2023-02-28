@@ -1,0 +1,20 @@
+{
+    type: "Duct",
+    category: "distribution",
+
+    health: 90,
+    speed: 15,
+
+	research: {
+         parent: "kamek-block-core-hill",
+         requirements: [
+         "kamek-item-stone/5",
+        ],
+        objectives: [
+            "kamek-block-drill-stone"
+			]
+    },
+         requirements: [
+         "kamek-item-stone/1"
+        ]
+}

@@ -1,0 +1,5 @@
+{
+    type: "Floor",
+    itemDrop: "kamek-item-iron",
+    variants: 3
+}

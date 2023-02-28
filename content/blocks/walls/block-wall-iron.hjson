@@ -1,0 +1,20 @@
+{
+    type: "Wall",
+    category: "defense",
+
+    health: 600,
+
+    research: {
+        parent: "kamek-block-core-hill",
+        requirements: [
+            "kamek-item-iron-ingot/100"
+        ],
+        objectives: [
+            "kamek-block-turret-origin"
+			]
+    },
+
+    requirements: [
+        "kamek-item-iron-ingot/10"
+    ]
+}

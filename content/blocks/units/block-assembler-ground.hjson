@@ -1,0 +1,30 @@
+{
+     type: UnitFactory
+	 category: "units"
+     size: 3
+     plans: [
+         {
+    unit: kamek-unit-hope
+    time: 2700
+    requirements: [
+	     "kamek-item-iron-ingot/40"
+             ]
+         }
+    ]
+	research: {
+    parent: "kamek-block-core-hill",
+    requirements: [
+        "kamek-item-stone/400",
+	    "kamek-item-iron-ingot/100"
+         ],
+        objectives: [
+            "kamek-item-iron-ingot",
+			"kamek-block-production-iron-smelter"
+		]
+    },
+
+    requirements: [
+        "kamek-item-stone/200",
+	    "kamek-item-iron-ingot/100"
+    ]
+}

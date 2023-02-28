@@ -1,0 +1,28 @@
+{
+    type: "GenericCrafter",
+    category: "crafting",
+
+    size: 2,
+    health: 450,
+
+    craftTime: 240,
+    consumes: {
+        items: [
+            "kamek-item-iron/2"
+        ]}
+    outputItem : "kamek-item-iron-ingot/1",
+
+    research: {
+        parent: "kamek-block-core-hill",
+        requirements: [
+            "kamek-item-stone/150"
+        ],
+        objectives: [
+            "kamek-block-drill-iron"
+		]
+    },
+
+    requirements: [
+        "kamek-item-stone/70"
+    ]
+}
