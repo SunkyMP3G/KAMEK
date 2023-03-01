@@ -2,9 +2,9 @@
     type: "WallCrafter",
     category: "production",
     size: 2,
-    health: 250,
+    health: 150,
 
-    drillTime: 240,
+    drillTime: 200,
     output: "kamek-item-stone",
 
     research: {
@@ -13,7 +13,11 @@
             "kamek-item-stone/50"
         ],
         objectives: [
-            "kamek-item-stone"
+            {
+            type: OnSector
+			preset: sector-hill
+			}
+			]
 		]
     },
 
