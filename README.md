@@ -1,6 +1,6 @@
 My first mod
 
-Version: v0.1.0-beta (Unable to download)
+Version: v0.1.0-beta (No releases yet)
 
 This mod adds a new planet with tech tree and first sector
 
