@@ -11,14 +11,7 @@
         parent: "kamek-block-core-hill",
         requirements: [
             "kamek-item-stone/50"
-        ],
-        objectives: [
-            {
-            type: OnSector
-			preset: sector-hill
-			}
-			]
-		]
+        ]
     },
 
     requirements: [
