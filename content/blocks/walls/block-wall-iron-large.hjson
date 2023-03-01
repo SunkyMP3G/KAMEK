@@ -1,0 +1,24 @@
+{
+    type: "Wall",
+    category: "defense",
+	size: 2,
+
+    health: 1600,
+
+    research: {
+        parent: "kamek-block-wall-iron",
+        requirements: [
+            "kamek-item-iron-ingot/400"
+        ],
+        objectives: [
+            {
+            type: CaptureSector
+			preset: sector-hill
+			}
+			]
+    },
+
+    requirements: [
+        "kamek-item-iron-ingot/24"
+    ]
+}

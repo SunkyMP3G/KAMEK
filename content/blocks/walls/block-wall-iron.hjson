@@ -1,8 +1,9 @@
 {
     type: "Wall",
     category: "defense",
+	size: 1,
 
-    health: 600,
+    health: 400,
 
     research: {
         parent: "kamek-block-core-hill",
@@ -15,6 +16,6 @@
     },
 
     requirements: [
-        "kamek-item-iron-ingot/10"
+        "kamek-item-iron-ingot/6"
     ]
 }
