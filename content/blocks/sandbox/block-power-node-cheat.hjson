@@ -1,0 +1,14 @@
+{
+    type: "PowerNode",
+    category: "power",
+
+    size: 1,
+    health: 1000000,
+	buildVisibility: "sandboxOnly"
+
+    laserRange: 1200,
+	maxNodes: 999,
+
+    requirements: [
+    ]
+}

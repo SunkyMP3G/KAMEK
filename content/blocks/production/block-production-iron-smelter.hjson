@@ -3,9 +3,9 @@
     category: "crafting",
 
     size: 2,
-    health: 450,
+    health: 200,
 
-    craftTime: 240,
+    craftTime: 200,
     consumes: {
         items: [
             "kamek-item-iron/2"

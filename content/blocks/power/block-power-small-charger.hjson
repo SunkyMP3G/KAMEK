@@ -21,7 +21,7 @@
         objectives: [
             {
             type: OnSector
-			preset: sector-hill
+			preset: sector-cliffs
 			}
 		]
     },

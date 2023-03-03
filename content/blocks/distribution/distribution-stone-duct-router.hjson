@@ -2,7 +2,7 @@
     type: "Router",
     category: "distribution",
 
-    health: 110,
+    health: 50,
 
 	research: {
         parent: "kamek-distribution-stone-duct",

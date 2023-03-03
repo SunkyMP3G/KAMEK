@@ -2,7 +2,7 @@
     type: "WallCrafter",
     category: "production",
     size: 2,
-    health: 150,
+    health: 90,
 
     drillTime: 200,
     output: "kamek-item-stone",

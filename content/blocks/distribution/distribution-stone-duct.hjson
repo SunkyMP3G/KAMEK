@@ -2,7 +2,7 @@
     type: "Duct",
     category: "distribution",
 
-    health: 90,
+    health: 40,
     speed: 15,
 
 	research: {

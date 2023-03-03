@@ -1,0 +1,27 @@
+{
+    type: "ConsumeGenerator",
+    category: "power",
+
+    size: 1,
+    health: 70,
+	hasPower: true,
+	powerProduction: 0.66666666,
+    itemDuration: 60,
+    consumes: {
+            items: [
+                "kamek-item-small-battery/1"
+            ]
+        }
+    research: {
+        parent: "kamek-block-power-small-charger",
+        requirements: [
+            "kamek-item-stone/100",
+			"kamek-item-iron-ingot/40",
+        ]
+    },
+
+    requirements: [
+        "kamek-item-stone/35",
+		"kamek-item-iron-ingot/10"
+    ]
+}

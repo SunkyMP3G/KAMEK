@@ -2,7 +2,7 @@
     type: "AttributeCrafter",
     category: "production",
     size: 2,
-    health: 300,
+    health: 110,
 
     craftTime: 240,
     baseEfficiency: 0,
