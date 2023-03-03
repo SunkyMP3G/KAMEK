@@ -9,9 +9,9 @@ This is a beta, it can contain bugs, if you found a bug, tell me.
 At the moment mod contains:
 
      - A new planet
-     - 1 Sector
-     - 7 Blocks
-     - 3 Items
+     - 2 Sectors
+     - 13 Blocks
+     - 5 Items
      - 1 Turret
      - 2 Units
 
