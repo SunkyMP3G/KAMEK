@@ -1,5 +1,0 @@
-{
-    type: "Floor",
-    wall: "kamek-wall-stone",
-    variants: 3
-}
