@@ -1,15 +1,16 @@
 {
-    sector: 0,
+    sector: 1,
     planet: "kamek",
+	captureWave: 10
     research: {
-        parent: "kamek-block-core-hill",
-		objectives: [
+        parent: "sector-hill",
+        objectives: [
             {
                 type: "SectorComplete",
-                preset: "sector-hill"
+                preset: "sector-hill",
             }
         ]
     },
     difficulty: 0,
-    alwaysUnlocked: true
+	alwaysUnlocked: false
 }

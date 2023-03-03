@@ -1,12 +1,11 @@
 {
     color: 808080,
-
+    type: resource
     explosiveness: 0.3,
     flammability: 0.3,
     radioactivity: 0,
     charge: 1,
     hardness: 3,
-	cost: 1,
 
     research: {
         parent: "kamek-item-iron-ingot"
