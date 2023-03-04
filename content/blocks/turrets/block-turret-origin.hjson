@@ -9,7 +9,7 @@
         parent: "kamek-block-core-hill",
         requirements: [
             "kamek-item-stone/200",
-			"kamek-item-iron-ingot/90",
+			"kamek-item-iron-ingot/60",
         ],
 		objectives: [
 			"kamek-item-iron-ingot"
@@ -17,8 +17,8 @@
     },
 
     requirements: [
-        "kamek-item-stone/150",
-	    "kamek-item-iron-ingot/50",
+        "kamek-item-stone/100",
+	    "kamek-item-iron-ingot/30",
     ],
 
 
@@ -32,7 +32,7 @@
             reloadMultiplier: 1,
             ammoMultiplier: 2,
             lifetime: 13,
-            damage: 6,
+            damage: 9,
             height: 8,
             speed: 8,
             width: 8
