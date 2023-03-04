@@ -12,12 +12,11 @@
     accessible: true,
     alwaysUnlocked: true,
     defaultCore: "kamek-block-core-hill",
-    sectorSeed: 5948,
+    sectorSeed: 9999,
     startSector: 0,
-    sectorSize: 2,
+    sectorSize: 3,
     clearSectorOnLose: true,
     allowSectorInvasion: false,
-    radius: 1,
     hiddenItems: [
         "copper",
         "lead",
@@ -43,7 +42,7 @@
         "dormant-cyst"
     ],
     mesh: {
-        type: "NoiseMesh",  //NoiseMesh NoiseMesh
+        type: "NoiseMesh",
         seed: 215625,
         divisions: 5,
         radius: 0.9,

@@ -18,7 +18,7 @@
     },
 
     requirements: [
-        "kamek-item-stone/800",
-        "kamek-item-iron-ingot/400"
+        "kamek-item-stone/600",
+        "kamek-item-iron-ingot/300"
     ]
 }

@@ -12,8 +12,7 @@
 			"kamek-item-iron-ingot/90",
         ],
 		objectives: [
-            "kamek-unit-hope",
-			"kamek-block-assembler-ground"
+			"kamek-item-iron-ingot"
 		]
     },
 

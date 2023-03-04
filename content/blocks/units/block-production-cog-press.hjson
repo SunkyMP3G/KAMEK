@@ -1,9 +1,9 @@
 {
     type: "GenericCrafter",
-    category: "crafting",
+    category: "units",
 
     size: 2,
-    health: 500,
+    health: 300,
 
     craftTime: 150,
     consumes: {

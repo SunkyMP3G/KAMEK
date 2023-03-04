@@ -1,7 +1,7 @@
 {
     sector: 1,
     planet: "kamek",
-	captureWave: 10
+	captureWave: 10,
     research: {
         parent: "sector-hill",
         objectives: [
@@ -12,5 +12,4 @@
         ]
     },
     difficulty: 0,
-	alwaysUnlocked: false
 }

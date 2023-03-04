@@ -1,6 +1,6 @@
 {
     type: "GenericCrafter",
-    category: "crafting",
+    category: "power",
 
     size: 1,
     health: 100,

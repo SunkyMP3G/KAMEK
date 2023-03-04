@@ -14,7 +14,6 @@ speed: 5
 rotateSpeed: 10
 armor: 1
 itemCapacity: 10
-drawLight: false
 weapons: [
   {
     name: "unite-heal-gun"
@@ -25,15 +24,12 @@ weapons: [
     reload: 25
     inaccuracy: 0
     bullet: {
-      type: HealBulletType
+      type: BasicBulletType
       damage: 1
 	  shootEffect: shootHeal
       smokeEffect: hitLaser
       despawnEffect: hitLaser
 	  collidesTeam: true
-      sideAngle: 45
-      sideWidth: 4
-      sideLength: 4
 	  buildingDamageMultiplier: 0
       speed: 8
       trailLength: 1

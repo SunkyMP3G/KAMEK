@@ -12,7 +12,7 @@
         ],
         objectives: [
             {
-            type: CaptureSector
+            type: SectorComplete
 			preset: sector-hill
 			}
 			]

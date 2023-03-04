@@ -1,6 +1,5 @@
 {
     color: 808080,
-    type: resource
     explosiveness: 0.3,
     flammability: 0.3,
     radioactivity: 0,
