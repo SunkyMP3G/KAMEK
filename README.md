@@ -10,7 +10,7 @@ At the moment mod contains:
 
      - A new planet
      - 2 Sectors
-     - 13 Blocks
+     - 14 Blocks
      - 5 Items
      - 1 Turret
      - 2 Units
