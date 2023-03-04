@@ -2,6 +2,7 @@
     sector: 1,
     planet: "kamek",
 	captureWave: 10,
+	loadout: "BasicHill",
     research: {
         parent: "sector-hill",
         objectives: [
