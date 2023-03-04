@@ -6,7 +6,7 @@
     health: 70,
 	hasPower: true,
 	powerProduction: 0.66666666,
-    itemDuration: 60,
+    itemDuration: 240,
     consumes: {
             items: [
                 "kamek-item-small-battery/1"
