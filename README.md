@@ -1,6 +1,6 @@
 My first mod
 
-Version: v0.1.2-beta
+Version: v0.1.3-beta
 
 This mod adds a new planet with tech tree and first sector
 
