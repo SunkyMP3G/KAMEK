@@ -2,16 +2,16 @@
     name: "kamek",
 	repo: "sunkymp3g/kamek",
     minGameVersion: 141.3,
-    version: "v0.1.2-beta",
+    version: "v0.1.3-beta",
     
     displayName: "KAMEK: A mountain filled planet",
     author: "[orange]Sunky.MPEG",
-    subtitle:"[green]Version: v0.1.2-beta",
+    subtitle:"[green]Version: v0.1.3-beta",
     description:
 '''
 [white]Explore a new planet, that's filled by mountains!
 
-[[]gray]Version: [[]white]v0.1.2-beta
+[[]gray]Version: [[]white]v0.1.3-beta
 	
 [[]gray]Languages: 
 	         [[]white]- English
