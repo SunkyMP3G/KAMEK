@@ -1,7 +1,7 @@
-[accent]Hello! I hope you like the mod!
+Hello! I hope you like the mod!
 
 [gray]Main dev:[] Sunky.MPEG
 
 [gray]Contributors: []
-    - kapzduke
+ - kapzduke
 	- Валентин Мощенок
