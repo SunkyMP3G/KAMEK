@@ -1,0 +1,12 @@
+{
+    type: "Floor",
+    liquidDrop: "kamek-liquid-slag",
+    status: "melting",
+    statusDuration: 240,
+    isLiquid: true,
+    variants: 0,
+    drownTime: 120,
+    supportsOverlay: true,
+    speedMultiplier: 0.08,
+    albedo: 0.9
+}

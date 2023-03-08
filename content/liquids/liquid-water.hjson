@@ -1,0 +1,17 @@
+{
+    color: "4169e1",
+	barColor: "4169e1",
+	lightColor: "4169e1",
+    coolant: true,
+    effect: "wet",
+    
+	flammability: 0,
+	temperature: 0.15,
+    heatCapacity: 0.4,
+    viscosity: 0,
+	explosiveness: 0,
+
+    research: {
+        parent: "kamek-item-stone"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    type: "GenericCrafter",
+    category: "crafting",
+
+    size: 2,
+    health: 180,
+
+    craftTime: 240,
+    consumes: {
+        liquids: [
+            "kamek-liquid-slag/1",
+			"kamek-liquid-water/1"
+        ]
+	}
+    outputItem : "kamek-item-solid-slag/1",
+
+	research: {
+         parent: "kamek-block-liquid-iron-conduit",
+         requirements: [
+         "kamek-item-stone/70",
+		 "kamek-item-iron-ingot/20"
+        ],
+        objectives: [
+            {
+            type: SectorComplete
+			preset: sector-cliffs
+			}
+			]
+    }
+
+    requirements: [
+        "kamek-item-stone/120",
+		"kamek-item-iron-ingot/20"
+    ]
+}

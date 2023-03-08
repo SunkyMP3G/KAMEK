@@ -1,0 +1,44 @@
+type: mech
+hovering: true
+shadowElevation: 0.1
+drag: 0.07
+accel: 0.09
+rotateSpeed: 5
+speed: 2
+canBoost: true
+boostMultiplier: 0.3
+health: 160
+mechSideSway: 0
+mechFrontSway: 0
+armor: 1
+itemCapacity: 0
+weapons: [
+  {
+    name: unit-slagthrower
+    top: false
+    x: 0
+    y: 0
+	mirror: false
+	alternate: false
+	inaccuracy: 10
+    reload: 5
+    shootSound: "flame"
+    bullet: {
+      type: LiquidBulletType
+	  liquid: slag
+      damage: 7
+	  status: burning
+	  statusDuration: 180
+	  lifetime: 10
+	  speed: 3
+    }
+  }
+]
+research: {
+     parent: "kamek-block-assembler-air",
+     requirements: [
+       ],
+     objectives: [
+         "kamek-block-assembler-air"
+	    ]
+    }

@@ -1,0 +1,24 @@
+{
+type: Pump
+size: 1
+health: 100
+pumpAmount: 0.33333333
+liquidCapacity: 30
+	research: {
+         parent: "kamek-block-liquid-iron-conduit",
+         requirements: [
+         "kamek-item-stone/100",
+		 "kamek-item-iron-ingot/20"
+        ],
+        objectives: [
+            {
+            type: SectorComplete
+			preset: sector-cliffs
+			}
+			]
+    },
+requirements: [
+    "kamek-item-stone/40",
+	"kamek-item-iron-ingot/10"
+    ]
+}

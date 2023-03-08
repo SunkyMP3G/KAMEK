@@ -1,0 +1,12 @@
+{
+    type: "Floor",
+    liquidDrop: "kamek-liquid-water",
+    status: "wet",
+    statusDuration: 120,
+    isLiquid: true,
+    variants: 0,
+    drownTime: 180,
+    supportsOverlay: true,
+    speedMultiplier: 0.1,
+    albedo: 0.9
+}

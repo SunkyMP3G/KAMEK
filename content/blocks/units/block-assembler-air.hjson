@@ -1,0 +1,36 @@
+{
+     type: UnitFactory
+	 category: "units"
+     size: 3
+	 consumes: {
+         power: 1
+		 }
+     plans: [
+         {
+    unit: kamek-unit-flame
+    time: 2700
+    requirements: [
+	     "kamek-item-unit-cog/25",
+		 "kamek-item-solid-slag/5"
+             ]
+         }
+    ]
+	research: {
+    parent: "kamek-block-assembler-ground",
+    requirements: [
+        "kamek-item-stone/300",
+	    "kamek-item-iron-ingot/150"
+         ],
+        objectives: [
+            {
+                type: "CaptureSector",
+                preset: "sector-cliffs",
+            }
+        ]
+    },
+
+    requirements: [
+        "kamek-item-stone/300",
+	    "kamek-item-iron-ingot/120"
+    ]
+}

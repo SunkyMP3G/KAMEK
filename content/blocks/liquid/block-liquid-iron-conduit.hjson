@@ -1,0 +1,25 @@
+{
+type: "Conduit",
+category: "liquid",
+leaks: true,
+health: 90
+	research: {
+         parent: "kamek-block-core-hill",
+         requirements: [
+         "kamek-item-stone/50",
+		 "kamek-item-iron-ingot/10"
+        ],
+        objectives: [
+            {
+            type: SectorComplete
+			preset: sector-cliffs
+			}
+			]
+    },
+requirements: [
+    "kamek-item-stone/2",
+	"kamek-item-iron-ingot/1"
+    ]
+liquidCapacity: 20
+liquidPressure: 1.1
+}
