@@ -1,19 +1,19 @@
 My first mod
 
-Version: v0.1.3-beta
+Version: v0.2.0-beta
 
-This mod adds a new planet with tech tree and first sector
+This mod adds a new planet with tech tree and block
 
 This is a beta, it can contain bugs, if you found a bug, tell me.
 
 At the moment mod contains:
 
      - A new planet
-     - 2 Sectors
-     - 14 Blocks
-     - 5 Items
+     - 3 Sectors
+     - 17 Blocks
+     - 6 Items
      - 1 Turret
-     - 2 Units
+     - 3 Units
 
 Languages:
 
