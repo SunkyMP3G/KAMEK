@@ -1,0 +1,16 @@
+{
+    sector: 2,
+    planet: "kamek",
+	loadout: "BasicHill",
+    research: {
+        parent: "sector-hill",
+        objectives: [
+            {
+                type: "SectorComplete",
+                preset: "sector-cliffs"
+            },
+			"kamek-block-power-small-uncharger"
+        ]
+    },
+    difficulty: 1,
+}
