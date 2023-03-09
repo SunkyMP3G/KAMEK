@@ -5,7 +5,7 @@
     health: 110,
 
     craftTime: 240,
-    baseEfficiency: 0,
+	baseEfficiency: 0,
     outputItem: "kamek-item-iron/1",
 
     research: {

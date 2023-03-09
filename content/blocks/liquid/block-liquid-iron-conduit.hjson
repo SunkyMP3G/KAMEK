@@ -4,17 +4,11 @@ category: "liquid",
 leaks: true,
 health: 90
 	research: {
-         parent: "kamek-block-core-hill",
+         parent: "kamek-block-liquid-iron-pump",
          requirements: [
          "kamek-item-stone/50",
 		 "kamek-item-iron-ingot/10"
-        ],
-        objectives: [
-            {
-            type: SectorComplete
-			preset: sector-cliffs
-			}
-			]
+        ]
     },
 requirements: [
     "kamek-item-stone/2",

@@ -1,19 +1,20 @@
 {
 type: Pump
+category: "liquid"
 size: 1
 health: 100
 pumpAmount: 0.33333333
 liquidCapacity: 30
 	research: {
-         parent: "kamek-block-liquid-iron-conduit",
+         parent: "kamek-block-core-hill",
          requirements: [
          "kamek-item-stone/100",
 		 "kamek-item-iron-ingot/20"
         ],
         objectives: [
             {
-            type: SectorComplete
-			preset: sector-cliffs
+            type: "OnSector",
+			preset: "sector-lake"
 			}
 			]
     },

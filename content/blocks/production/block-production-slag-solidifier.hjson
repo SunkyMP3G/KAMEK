@@ -8,22 +8,22 @@
     craftTime: 240,
     consumes: {
         liquids: [
-            "kamek-liquid-slag/1",
-			"kamek-liquid-water/1"
+            "slag/1",
+			"water/1"
         ]
 	}
     outputItem : "kamek-item-solid-slag/1",
 
 	research: {
-         parent: "kamek-block-liquid-iron-conduit",
+         parent: "kamek-block-production-iron-smelter",
          requirements: [
          "kamek-item-stone/70",
 		 "kamek-item-iron-ingot/20"
         ],
         objectives: [
             {
-            type: SectorComplete
-			preset: sector-cliffs
+            type: "OnSector",
+			preset: "sector-lake"
 			}
 			]
     }
@@ -31,5 +31,18 @@
     requirements: [
         "kamek-item-stone/120",
 		"kamek-item-iron-ingot/20"
-    ]
+    ],
+	drawer: [
+	    {
+            type: "DrawRegion",
+            suffix: "-bottom"
+        },
+		{
+		    type: "DrawLiquidTile",
+            drawLiquid: "slag"
+	    },
+		{
+            type: "DrawDefault"
+        }
+	]
 }

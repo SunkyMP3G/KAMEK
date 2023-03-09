@@ -23,8 +23,8 @@
          ],
         objectives: [
             {
-                type: "CaptureSector",
-                preset: "sector-cliffs",
+                type: "OnSector",
+                preset: "sector-lake",
             }
         ]
     },
